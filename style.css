@@ -1,0 +1,34 @@
+.header_div {
+color: antiquewhite;
+background-color: brown;
+letter-spacing: 3px;
+
+}
+
+.main_div button {
+margin-top: 12px;
+border: 5px solid brown;
+
+}
+
+.main_div{
+background-color: bisque;
+border: 1px solid black;
+font-style: oblique;
+
+}
+
+.copy_right_footer {
+position: fixed;
+bottom: 0;
+text-align: center;
+background-color: crimson;
+font-style: oblique;
+width: 100%;
+line-height: 3;
+color: antiquewhite;
+}
+
+body {
+    background-color: black;
+}
